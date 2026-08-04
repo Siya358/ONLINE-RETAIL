@@ -82,3 +82,7 @@ The project supports:
 B.Tech CSE (AI)
 
 Galgotias University
+
+## ER Diagram
+
+![ER Diagram](<img width="817" height="562" alt="ER-Diagram" src="https://github.com/user-attachments/assets/4813ef98-e4e6-454f-9b4d-5ffb874f330e" />)
