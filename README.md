@@ -73,7 +73,7 @@ ONLINE-RETAIL/
 
 ## ER Diagram
 
-![ER Diagram](images/ER_Diagram.png)
+![ER Diagram](images/ER-Diagram.png)
 
 ---
 
