@@ -1,6 +1,6 @@
 # 🛒 Online Retail Management System (MySQL)
 
-## 📌 Project Overview
+## Project Overview
 
 The Online Retail Management System is a relational database project developed using MySQL. It simulates the backend database of an online shopping platform by managing customers, products, suppliers, orders, payments, and order details.
 
@@ -8,7 +8,7 @@ This project demonstrates practical SQL concepts including relational database d
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - MySQL
 - SQL
