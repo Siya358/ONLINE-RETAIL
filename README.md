@@ -1,4 +1,4 @@
-# 🛒 Online Retail Management System (MySQL)
+# Online Retail Management System (MySQL)
 
 ## Project Overview
 
